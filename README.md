@@ -11,7 +11,7 @@ I am currently learning React as I do not have as much experience with webdev. I
 
 ### Homelab 🔌
 
-I love seeing other individuals homelabs and improving upong my own (this seems to be a never-ending cycle, like most things in tech).
+I love seeing other individuals homelabs and improving upon my own (this seems to be a never-ending cycle, like most things in tech).
 
 ### Contact 📋
 
