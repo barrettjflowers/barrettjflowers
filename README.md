@@ -1,6 +1,6 @@
 ### About Me ☕🍂
 
-`Hello world!` My name is Barrett Flowers. I am a junior developer with experience in python and js; and experience, albeit minimal, in c#, c++, and java.
+`Hello world!` My name is Barrett Flowers. I am a junior developer with experience in python and js; as well as experience, albeit minimal, in c#, c++, and java.
 
 As a creative mainly (photographer), I love simple applications that are both beautiful and efficient. I have dabbled in game dev without
 the use of a game engine, I put this to rest but one rainy day I may revisit the idea.
