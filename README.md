@@ -15,5 +15,5 @@ I love seeing other individuals homelabs and improving upong my own (this seems 
 
 ## Contact 📋
 
-See my portfolio for more information or to contact.
+See my portfolio for more information or to contact.\
 [barrettjflowers.net](https://barrettjflowers.net/)
