@@ -7,7 +7,7 @@ the use of a game engine, mostly sfml and pygame. I put this to rest but one rai
 
 ### Current Endeavor 💾
 
-I am currently learning React as I do not have as much experience with webdev. I am also attempting to pickup vim motions.
+Working on vim motions ;)
 
 ### Homelab 🔌
 
