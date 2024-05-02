@@ -22,7 +22,7 @@ I love seeing other individuals homelabs and improving upon my own (this seems t
 
 ### | Mac Configuration
 If you are interested in my mac setup, see my dotfiles repo.
-[https://github.com/barrettjflowers/dotfiles][https://github.com/barrettjflowers/dotfiles]
+[https://github.com/barrettjflowers/dotfiles](https://github.com/barrettjflowers/dotfiles)
 
 ### | Contact  📋
 See my portfolio for more information or to contact.\
