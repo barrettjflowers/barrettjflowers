@@ -1,25 +1,25 @@
 ## About Me  ☕ 🍂
-`Hello World!` my name is Barrett Flowers, I'm a junior developer with a hunger for knowledge.
+`Hello World!` my name is Barrett Flowers, a junior developer with a hunger for knowledge- and lattes. Retro games, tv shows, books, films.
 
-As a creative, I love simple applications that optimize and simplify work flows. Creating scripts, installers, bots, and more are all right up my alley. Spending hours optimizing my `.tmux.conf`? Absolutely. 
+As a creative, I LOVE simple applications that optimize and simplify work flows. Why overcomplicate it? Creating scripts, installers, and bots are all right up my alley. Spending hours optimizing my `.tmux.conf`? Absolutely.
 
-I have also dabbled in game dev, typically I prefer to just use a library and code from the ground up, theres something so satisfying about writing a game essentially from a compiled text file. SFML was a nightmare to work with... Fulfilling? when I finally got it to compile without crashing or memory leaks.. Practical? not at all. I had a much better time with pygame. Sure python is slow, but its fun when speed isn't neccesary.
+Theres something so satisfying about writing a game essentially from a compiled text file. SFML was a nightmare to work with... Fulfilling? when I finally got it to compile without crashing or memory leaks... Practical? No not at all. Pygame was a pleasure. Sure Python is slow, but its fun when speed isn't neccesary. _Minus indendation errors :D_
 
 ### Current Endeavor  💾
-Rust and CI/CD pipelines.
+The Rust-lang book and CI/CD pipelines.
 
 ### Homelab  🔌
-I love seeing other individuals homelabs and improving upon my own (this seems to be a never-ending cycle, like most things in tech).
+Configuring my homelab is sortof a never-ending addiction...
 
 #### Some services I run: 
-`ntfy`, A notification service! \
-`cloudflaretunnel`, Reverse proxy tunnels for testing websites. \
+`telegram`, A notification service bot! \
+`cloudflaretunnel`, Secure reverse proxy tunnels for testing websites. \
 `openvpn`, Access everywhere! \
 `pihole`, Home network dns resolver. \
 `piwol`, Wake-on-lan interface for home network devices. \
 `homepage`, A homepage for all my services. \
-`nextcloud`, Connects to my smb shares on my nas.
+`nextcloud`, Connects to my smb shares on my nas. _Yes I know smb is less than ideal._
 
 ### Contact  📋
-See my portfolio for more information or to contact.\
+See my portfolio to contact.\
 [barrettjflowers.net](https://barrettjflowers.net/)
