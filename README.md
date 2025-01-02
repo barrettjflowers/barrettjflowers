@@ -6,7 +6,7 @@ As a creative (photogtapher), I LOVE simple applications that optimize and simpl
 Theres something so satisfying about writing a game essentially from a compiled text file. SFML was a nightmare to work with. Fulfilling? When I finally got it to compile without crashing or memory leaks... Practical? No not at all. Pygame; however, was a pleasure. Sure Python is slow, but fun when speed isn't neccesary. _Minus indendation errors :D_
 
 ### Current Endeavor  💾
-[] The Rust-lang book and CI/CD pipelines.
+[ ] The Rust-lang book and CI/CD pipelines.
 
 ### Homelab  🔌
 Configuring my homelab is sortof a never-ending addiction...
