@@ -1,5 +1,5 @@
 ## About Me  ☕ 🍂
-`Hello World!` my name is Barrett Flowers, a junior developer with a hunger for knowledge- and lattes. Retro games, tv shows, books, films.
+`Hello World!` my name is Barrett Flowers, a junior developer with a hunger for knowledge- and pumpkin lattes. Retro games, tv shows, books, films.
 
 As a creative, I LOVE simple applications that optimize and simplify work flows. Why overcomplicate it? Creating scripts, installers, and bots are all right up my alley. Spending hours optimizing my `.tmux.conf`? Absolutely.
 
