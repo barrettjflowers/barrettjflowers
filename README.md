@@ -5,7 +5,7 @@ As a creative (photography & films), I LOVE simple applications that optimize an
 
 Theres something so satisfying about writing a game essentially from a compiled text file. SFML was a nightmare to work with. Fulfilling? When I finally got it to compile without crashing or memory leaks... Practical? No not at all. Pygame; however, was a pleasure. Sure Python is slow, but fun when speed isn't neccesary. _Minus indendation errors :D_
 
-### Some Current Favorites  📙 🌲
+### Some Favorites  📙 🌲
 * Treasure Planet!
 * Cave Story
 * Wario Land 3
@@ -17,7 +17,7 @@ Theres something so satisfying about writing a game essentially from a compiled 
 * The Rust-lang book.
 * CI/CD pipelines.
 * Playing through Wario Land 2!
-* Reading Little Women - Louisa May Alcott.
+* Reading Cloud Cuckoo Land - Anthony Doerr
 * Writing a short film. _See my other films_ [here.](https://www.youtube.com/@barrettjflowers/)
 
 ### Homelab  🧪 🌾
