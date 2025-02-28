@@ -1,23 +1,22 @@
 ## Hello World!  ☕ 🍂 🪴
 My alias? Barrett Flowers, a junior developer with a thirst for knowledge- and pumpkin lattes. Retro games, tv shows, books, and films.
 
-As a creative (photography & films), I LOVE simple applications that optimize and simplify work flows. Why overcomplicate it? Creating scripts, installers, and bots are all right up my alley. Spending hours optimizing my `.tmux.conf`? Absolutely.
+As a creative, unix nerd, and devops aficionado. I LOVE simple applications that optimize and simplify workflows. Why overcomplicate it? Creating scripts, installers, and bots are all right up my alley. Spending hours optimizing my `.zshrc`? Absolutely. 
 
 Theres something so satisfying about writing a game essentially from a compiled text file. SFML was a nightmare to work with. Fulfilling? When I finally got it to compile without crashing or memory leaks... Practical? No not at all. Pygame; however, was a pleasure. Sure Python is slow, but fun when speed isn't neccesary. _Minus indendation errors :D_
 
 ### Some Favorites  📙 🌲
 * Treasure Planet!
 * Cave Story
-* Wario Land 3
-* The Sundays
+* Wario Land Series
 * Gilmore Girls
 * White Collar
+* LOTR
 
 ### Current Endeavor(s)  📚
 * The Rust-lang book.
-* CI/CD pipelines.
-* Playing through Wario Land 2!
-* Reading Cloud Cuckoo Land - Anthony Doerr
+* Rewriting [lewis-and-clark](https://github.com/barrettjflowers/lewis-and-clark-legacy) an MS-DOS style game.
+* Playing through Wario Land 4!
 * Writing a short film. _See my other films_ [here.](https://www.youtube.com/@barrettjflowers/)
 
 ### Homelab  🧪 🌾
