@@ -10,14 +10,12 @@ Theres something so satisfying about writing a game essentially from a compiled 
 * Cave Story
 * Wario Land Series
 * Gilmore Girls
-* White Collar
 * LOTR
+* Dune (of course)
 
 ### Current Endeavor(s)  📚
 * The Rust-lang book.
 * Rewriting [lewis-and-clark](https://github.com/barrettjflowers/lewis-and-clark-legacy) an MS-DOS style game.
-* Playing through Wario Land 4!
-* Writing a short film. _See my other films_ [here.](https://www.youtube.com/@barrettjflowers/)
 
 ### Homelab  🧪 🌾
 Configuring my homelab is sortof a never-ending addiction...
