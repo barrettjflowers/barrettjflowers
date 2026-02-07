@@ -13,7 +13,7 @@ if you need me there's a good chance i'm reading right now– or optimizing my `
 ### endeavors  📚
 * somehow getting interested in swift, don't know if this a problem yet. please advise.
 * building little tools for myself in svelte
-* building a context engine for visualizing cronologically relational data.
+* building a [context engine](https://github.com/barrettjflowers/biblia.ctx) for visualizing cronologically relational data.
 
 ### todo
 - [ ] Migrate amythest config to yabai
